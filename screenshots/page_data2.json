@@ -1,0 +1,2785 @@
+{
+  "images": [
+    {
+      "src": "https://framerusercontent.com/images/v6ImljIdHDbOjsLF8mv4viMHk.svg?width=568&height=227",
+      "srcset": "https://framerusercontent.com/images/v6ImljIdHDbOjsLF8mv4viMHk.svg?scale-down-to=512&width=568&height=227 512w,https://framerusercontent.com/images/v6ImljIdHDbOjsLF8mv4viMHk.svg?width=568&height=227 568w",
+      "alt": "",
+      "width": 1381,
+      "height": 552,
+      "displayedW": 122,
+      "displayedH": 32,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/abKXbzlKET4PG2Hlh2Rcnb0gk.jpg?width=7997&height=5334",
+      "srcset": "",
+      "alt": "",
+      "width": 7997,
+      "height": 5334,
+      "displayedW": 1440,
+      "displayedH": 838,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/HPoYGh7zWk3LEnTLL8ndtT5JYMA.png?width=486&height=128",
+      "srcset": "",
+      "alt": "",
+      "width": 486,
+      "height": 128,
+      "displayedW": 117,
+      "displayedH": 32,
+      "loading": "lazy"
+    },
+    {
+      "src": "https://framerusercontent.com/images/M80RTIaYqncYUv2uSUnDFVsPxwA.png?width=390&height=128",
+      "srcset": "",
+      "alt": "",
+      "width": 390,
+      "height": 128,
+      "displayedW": 117,
+      "displayedH": 32,
+      "loading": "lazy"
+    },
+    {
+      "src": "https://framerusercontent.com/images/cR65FfCL7M9M5EMadTlJ138WQ.png?width=452&height=128",
+      "srcset": "",
+      "alt": "",
+      "width": 452,
+      "height": 128,
+      "displayedW": 117,
+      "displayedH": 32,
+      "loading": "lazy"
+    },
+    {
+      "src": "https://framerusercontent.com/images/r1BZKJMTxBxkGqHQBlxq8Nde0.png?width=467&height=128",
+      "srcset": "",
+      "alt": "",
+      "width": 467,
+      "height": 128,
+      "displayedW": 117,
+      "displayedH": 32,
+      "loading": "lazy"
+    },
+    {
+      "src": "https://framerusercontent.com/images/SGtoIOSASjtmIuDXw0BQud4XM.png?width=435&height=128",
+      "srcset": "",
+      "alt": "",
+      "width": 435,
+      "height": 128,
+      "displayedW": 117,
+      "displayedH": 32,
+      "loading": "lazy"
+    },
+    {
+      "src": "https://framerusercontent.com/images/xY7JDN4gCmjwckwSXISz19Ue8o.png?width=582&height=128",
+      "srcset": "https://framerusercontent.com/images/xY7JDN4gCmjwckwSXISz19Ue8o.png?scale-down-to=512&width=582&height=128 512w,https://framerusercontent.com/images/xY7JDN4gCmjwckwSXISz19Ue8o.png?width=582&height=128 582w",
+      "alt": "",
+      "width": 132,
+      "height": 29,
+      "displayedW": 117,
+      "displayedH": 32,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/0Hdy41Gn5Ft2NZJqrwXpi0fpB3o.png?width=539&height=128",
+      "srcset": "https://framerusercontent.com/images/0Hdy41Gn5Ft2NZJqrwXpi0fpB3o.png?scale-down-to=512&width=539&height=128 512w,https://framerusercontent.com/images/0Hdy41Gn5Ft2NZJqrwXpi0fpB3o.png?width=539&height=128 539w",
+      "alt": "",
+      "width": 122,
+      "height": 29,
+      "displayedW": 117,
+      "displayedH": 32,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/Ca59LVxS4Yp9iVzUajDNKiEvjks.png?width=504&height=128",
+      "srcset": "",
+      "alt": "",
+      "width": 504,
+      "height": 128,
+      "displayedW": 117,
+      "displayedH": 32,
+      "loading": "lazy"
+    },
+    {
+      "src": "https://framerusercontent.com/images/PcpejLpSfgdYl3vhKB6a5JL8TDM.png?width=1371&height=1295",
+      "srcset": "https://framerusercontent.com/images/PcpejLpSfgdYl3vhKB6a5JL8TDM.png?scale-down-to=512&width=1371&height=1295 512w,https://framerusercontent.com/images/PcpejLpSfgdYl3vhKB6a5JL8TDM.png?scale-down-to=1024&width=1371&height=1295 1024w,https://framerusercontent.com/images/PcpejLpSfgdYl3vhKB6a5JL8TDM.png?width=1371&height=1295 1371w",
+      "alt": "",
+      "width": 1440,
+      "height": 1360,
+      "displayedW": 378,
+      "displayedH": 423,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/a5npssXVDcOGdsWuqbJIP9Wz8.png?width=110&height=176",
+      "srcset": "",
+      "alt": "",
+      "width": 110,
+      "height": 176,
+      "displayedW": 34,
+      "displayedH": 54,
+      "loading": "lazy"
+    },
+    {
+      "src": "https://framerusercontent.com/images/GpneImi2kkjFf4TApb34Wc0AwI.png?width=351&height=288",
+      "srcset": "",
+      "alt": "",
+      "width": 351,
+      "height": 288,
+      "displayedW": 84,
+      "displayedH": 69,
+      "loading": "lazy"
+    },
+    {
+      "src": "https://framerusercontent.com/images/7GMrOOuQJZjMO5Tr2oDNptCenI.png?width=140&height=1344",
+      "srcset": "https://framerusercontent.com/images/7GMrOOuQJZjMO5Tr2oDNptCenI.png?width=140&height=1344 140w",
+      "alt": "",
+      "width": 41,
+      "height": 393,
+      "displayedW": 41,
+      "displayedH": 394,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/ZzWctc68vCXHR6H4l4tGjudvDM.png?width=140&height=1344",
+      "srcset": "https://framerusercontent.com/images/ZzWctc68vCXHR6H4l4tGjudvDM.png?width=140&height=1344 140w",
+      "alt": "",
+      "width": 41,
+      "height": 393,
+      "displayedW": 41,
+      "displayedH": 394,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/geyHMzXWtySSICHwNOOpkKnloc.png?width=928&height=768",
+      "srcset": "https://framerusercontent.com/images/geyHMzXWtySSICHwNOOpkKnloc.png?scale-down-to=512&width=928&height=768 512w,https://framerusercontent.com/images/geyHMzXWtySSICHwNOOpkKnloc.png?width=928&height=768 928w",
+      "alt": "",
+      "width": 166,
+      "height": 137,
+      "displayedW": 166,
+      "displayedH": 161,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/KwxmesCCHo21dppGSAiIYC2rWF8.png?width=301&height=130",
+      "srcset": "",
+      "alt": "",
+      "width": 301,
+      "height": 130,
+      "displayedW": 41,
+      "displayedH": 18,
+      "loading": "lazy"
+    },
+    {
+      "src": "https://framerusercontent.com/images/rZz0Utwy5JqhP8fIyx7jx3EZM.png?width=862&height=298",
+      "srcset": "https://framerusercontent.com/images/rZz0Utwy5JqhP8fIyx7jx3EZM.png?scale-down-to=512&width=862&height=298 512w,https://framerusercontent.com/images/rZz0Utwy5JqhP8fIyx7jx3EZM.png?width=862&height=298 862w",
+      "alt": "",
+      "width": 343,
+      "height": 118,
+      "displayedW": 343,
+      "displayedH": 119,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/0RjXu48t8Bxv3RP8J0Ci3jzO5L8.png?width=1318&height=1498",
+      "srcset": "https://framerusercontent.com/images/0RjXu48t8Bxv3RP8J0Ci3jzO5L8.png?scale-down-to=1024&width=1318&height=1498 900w,https://framerusercontent.com/images/0RjXu48t8Bxv3RP8J0Ci3jzO5L8.png?width=1318&height=1498 1318w",
+      "alt": "",
+      "width": 337,
+      "height": 383,
+      "displayedW": 337,
+      "displayedH": 383,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/LQvBNwEO4UcoWlW14v1lsXpSfFw.png?width=1984&height=1120",
+      "srcset": "https://framerusercontent.com/images/LQvBNwEO4UcoWlW14v1lsXpSfFw.png?scale-down-to=512&width=1984&height=1120 512w,https://framerusercontent.com/images/LQvBNwEO4UcoWlW14v1lsXpSfFw.png?scale-down-to=1024&width=1984&height=1120 1024w,https://framerusercontent.com/images/LQvBNwEO4UcoWlW14v1lsXpSfFw.png?width=1984&height=1120 1984w",
+      "alt": "",
+      "width": 496,
+      "height": 279,
+      "displayedW": 496,
+      "displayedH": 280,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/fmMQUd1GycvsFyME5VMgUmNRUM.png?width=176&height=176",
+      "srcset": "",
+      "alt": "",
+      "width": 176,
+      "height": 176,
+      "displayedW": 44,
+      "displayedH": 44,
+      "loading": "lazy"
+    },
+    {
+      "src": "https://framerusercontent.com/images/YNc5qFXA5Kdrgv2tr01GvbS8GAY.png?width=176&height=176",
+      "srcset": "",
+      "alt": "",
+      "width": 176,
+      "height": 176,
+      "displayedW": 44,
+      "displayedH": 44,
+      "loading": "lazy"
+    },
+    {
+      "src": "https://framerusercontent.com/images/yebdaAfzv6YviAF77Ca3l89c68.png?width=176&height=176",
+      "srcset": "",
+      "alt": "",
+      "width": 176,
+      "height": 176,
+      "displayedW": 44,
+      "displayedH": 44,
+      "loading": "lazy"
+    },
+    {
+      "src": "https://framerusercontent.com/images/fmMQUd1GycvsFyME5VMgUmNRUM.png?width=176&height=176",
+      "srcset": "",
+      "alt": "",
+      "width": 176,
+      "height": 176,
+      "displayedW": 44,
+      "displayedH": 44,
+      "loading": "lazy"
+    },
+    {
+      "src": "https://framerusercontent.com/images/YNc5qFXA5Kdrgv2tr01GvbS8GAY.png?width=176&height=176",
+      "srcset": "",
+      "alt": "",
+      "width": 176,
+      "height": 176,
+      "displayedW": 44,
+      "displayedH": 44,
+      "loading": "lazy"
+    },
+    {
+      "src": "https://framerusercontent.com/images/yebdaAfzv6YviAF77Ca3l89c68.png?width=176&height=176",
+      "srcset": "",
+      "alt": "",
+      "width": 176,
+      "height": 176,
+      "displayedW": 44,
+      "displayedH": 44,
+      "loading": "lazy"
+    },
+    {
+      "src": "https://framerusercontent.com/images/2cKvzpAmSCwcNkCNjo9BgAY.png?width=176&height=176",
+      "srcset": "",
+      "alt": "",
+      "width": 176,
+      "height": 176,
+      "displayedW": 44,
+      "displayedH": 44,
+      "loading": "lazy"
+    },
+    {
+      "src": "https://framerusercontent.com/images/duQMyBKN8zdwb5vW8S6QFCYpFwA.png?width=176&height=176",
+      "srcset": "",
+      "alt": "",
+      "width": 176,
+      "height": 176,
+      "displayedW": 44,
+      "displayedH": 44,
+      "loading": "lazy"
+    },
+    {
+      "src": "https://framerusercontent.com/images/2cKvzpAmSCwcNkCNjo9BgAY.png?width=176&height=176",
+      "srcset": "",
+      "alt": "",
+      "width": 176,
+      "height": 176,
+      "displayedW": 44,
+      "displayedH": 44,
+      "loading": "lazy"
+    },
+    {
+      "src": "https://framerusercontent.com/images/duQMyBKN8zdwb5vW8S6QFCYpFwA.png?width=176&height=176",
+      "srcset": "",
+      "alt": "",
+      "width": 176,
+      "height": 176,
+      "displayedW": 44,
+      "displayedH": 44,
+      "loading": "lazy"
+    },
+    {
+      "src": "https://framerusercontent.com/images/yGZoMLpywLje2LKnZ2EUblYWc.png?width=539&height=557",
+      "srcset": "https://framerusercontent.com/images/yGZoMLpywLje2LKnZ2EUblYWc.png?width=539&height=557 539w",
+      "alt": "",
+      "width": 150,
+      "height": 155,
+      "displayedW": 151,
+      "displayedH": 156,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/a6sUqjf4zg0ijKzWX4MjiCmtM8.png?width=539&height=629",
+      "srcset": "https://framerusercontent.com/images/a6sUqjf4zg0ijKzWX4MjiCmtM8.png?width=539&height=629 539w",
+      "alt": "",
+      "width": 111,
+      "height": 129,
+      "displayedW": 111,
+      "displayedH": 130,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/Df2jzbqNRIDPqq2P4ptxGOSw8.png?width=225&height=342",
+      "srcset": "",
+      "alt": "",
+      "width": 225,
+      "height": 342,
+      "displayedW": 39,
+      "displayedH": 59,
+      "loading": "lazy"
+    },
+    {
+      "src": "https://framerusercontent.com/images/yGZoMLpywLje2LKnZ2EUblYWc.png?width=539&height=557",
+      "srcset": "https://framerusercontent.com/images/yGZoMLpywLje2LKnZ2EUblYWc.png?width=539&height=557 539w",
+      "alt": "",
+      "width": 150,
+      "height": 155,
+      "displayedW": 151,
+      "displayedH": 156,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/a6sUqjf4zg0ijKzWX4MjiCmtM8.png?width=539&height=629",
+      "srcset": "https://framerusercontent.com/images/a6sUqjf4zg0ijKzWX4MjiCmtM8.png?width=539&height=629 539w",
+      "alt": "",
+      "width": 111,
+      "height": 129,
+      "displayedW": 111,
+      "displayedH": 130,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/e2bvL1W1dYNT5j5KQTsDqQF5Jww.png?width=1360&height=1028",
+      "srcset": "https://framerusercontent.com/images/e2bvL1W1dYNT5j5KQTsDqQF5Jww.png?scale-down-to=512&width=1360&height=1028 512w,https://framerusercontent.com/images/e2bvL1W1dYNT5j5KQTsDqQF5Jww.png?scale-down-to=1024&width=1360&height=1028 1024w,https://framerusercontent.com/images/e2bvL1W1dYNT5j5KQTsDqQF5Jww.png?width=1360&height=1028 1360w",
+      "alt": "",
+      "width": 349,
+      "height": 264,
+      "displayedW": 349,
+      "displayedH": 257,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/XGQs2qyfLPuR6sP0x1Ju7oNNJrg.png?width=1360&height=1028",
+      "srcset": "https://framerusercontent.com/images/XGQs2qyfLPuR6sP0x1Ju7oNNJrg.png?scale-down-to=512&width=1360&height=1028 512w,https://framerusercontent.com/images/XGQs2qyfLPuR6sP0x1Ju7oNNJrg.png?scale-down-to=1024&width=1360&height=1028 1024w,https://framerusercontent.com/images/XGQs2qyfLPuR6sP0x1Ju7oNNJrg.png?width=1360&height=1028 1360w",
+      "alt": "",
+      "width": 349,
+      "height": 264,
+      "displayedW": 349,
+      "displayedH": 257,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/aAR0wwGCT2efoNjGw47T0TetPhI.png?width=1360&height=1028",
+      "srcset": "https://framerusercontent.com/images/aAR0wwGCT2efoNjGw47T0TetPhI.png?scale-down-to=512&width=1360&height=1028 512w,https://framerusercontent.com/images/aAR0wwGCT2efoNjGw47T0TetPhI.png?scale-down-to=1024&width=1360&height=1028 1024w,https://framerusercontent.com/images/aAR0wwGCT2efoNjGw47T0TetPhI.png?width=1360&height=1028 1360w",
+      "alt": "",
+      "width": 349,
+      "height": 264,
+      "displayedW": 349,
+      "displayedH": 257,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/sbyyBJN7TdP5TgX1fKJxmDlLVwQ.png?width=3042&height=195",
+      "srcset": "https://framerusercontent.com/images/sbyyBJN7TdP5TgX1fKJxmDlLVwQ.png?scale-down-to=512&width=3042&height=195 512w,https://framerusercontent.com/images/sbyyBJN7TdP5TgX1fKJxmDlLVwQ.png?scale-down-to=1024&width=3042&height=195 1024w,https://framerusercontent.com/images/sbyyBJN7TdP5TgX1fKJxmDlLVwQ.png?scale-down-to=2048&width=3042&height=195 2048w,https://framerusercontent.com/images/sbyyBJN7TdP5TgX1fKJxmDlLVwQ.png?width=3042&height=195 3042w",
+      "alt": "",
+      "width": 765,
+      "height": 49,
+      "displayedW": 765,
+      "displayedH": 50,
+      "loading": "lazy"
+    },
+    {
+      "src": "https://framerusercontent.com/images/NZT1n052vbg8U8lt5mIdJOznPw0.jpg?width=4199&height=3397",
+      "srcset": "https://framerusercontent.com/images/NZT1n052vbg8U8lt5mIdJOznPw0.jpg?scale-down-to=512&width=4199&height=3397 512w,https://framerusercontent.com/images/NZT1n052vbg8U8lt5mIdJOznPw0.jpg?scale-down-to=1024&width=4199&height=3397 1024w,https://framerusercontent.com/images/NZT1n052vbg8U8lt5mIdJOznPw0.jpg?scale-down-to=2048&width=4199&height=3397 2048w,https://framerusercontent.com/images/NZT1n052vbg8U8lt5mIdJOznPw0.jpg?scale-down-to=4096&width=4199&height=3397 4096w,https://framerusercontent.com/images/NZT1n052vbg8U8lt5mIdJOznPw0.jpg?width=4199&height=3397 4199w",
+      "alt": "",
+      "width": 1208,
+      "height": 977,
+      "displayedW": 1662,
+      "displayedH": 1666,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/WacAg20AvDMNdTBFQkbDqg3Rjvg.png?width=340&height=96",
+      "srcset": "",
+      "alt": "",
+      "width": 340,
+      "height": 96,
+      "displayedW": 85,
+      "displayedH": 24,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/YN3LJJO1nyDKqbOQbaLqQNT8Zcg.png?width=1152&height=1264",
+      "srcset": "https://framerusercontent.com/images/YN3LJJO1nyDKqbOQbaLqQNT8Zcg.png?scale-down-to=1024&width=1152&height=1264 933w,https://framerusercontent.com/images/YN3LJJO1nyDKqbOQbaLqQNT8Zcg.png?width=1152&height=1264 1152w",
+      "alt": "",
+      "width": 390,
+      "height": 428,
+      "displayedW": 271,
+      "displayedH": 318,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/DfNLs66f66jgUHS68KHXIluvRk8.png?width=336&height=96",
+      "srcset": "",
+      "alt": "",
+      "width": 336,
+      "height": 96,
+      "displayedW": 85,
+      "displayedH": 24,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/H1fTBsktZRdyhiUzoCdcz2tf8.png?width=1152&height=1264",
+      "srcset": "https://framerusercontent.com/images/H1fTBsktZRdyhiUzoCdcz2tf8.png?scale-down-to=1024&width=1152&height=1264 933w,https://framerusercontent.com/images/H1fTBsktZRdyhiUzoCdcz2tf8.png?width=1152&height=1264 1152w",
+      "alt": "",
+      "width": 390,
+      "height": 428,
+      "displayedW": 271,
+      "displayedH": 318,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/WacAg20AvDMNdTBFQkbDqg3Rjvg.png?width=340&height=96",
+      "srcset": "",
+      "alt": "",
+      "width": 340,
+      "height": 96,
+      "displayedW": 85,
+      "displayedH": 24,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/SwToKhbqycLoiMPd5umAueMOQ.png?width=1152&height=1264",
+      "srcset": "https://framerusercontent.com/images/SwToKhbqycLoiMPd5umAueMOQ.png?scale-down-to=1024&width=1152&height=1264 933w,https://framerusercontent.com/images/SwToKhbqycLoiMPd5umAueMOQ.png?width=1152&height=1264 1152w",
+      "alt": "",
+      "width": 390,
+      "height": 428,
+      "displayedW": 271,
+      "displayedH": 318,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/WacAg20AvDMNdTBFQkbDqg3Rjvg.png?width=340&height=96",
+      "srcset": "",
+      "alt": "",
+      "width": 340,
+      "height": 96,
+      "displayedW": 85,
+      "displayedH": 24,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/YN3LJJO1nyDKqbOQbaLqQNT8Zcg.png?width=1152&height=1264",
+      "srcset": "https://framerusercontent.com/images/YN3LJJO1nyDKqbOQbaLqQNT8Zcg.png?scale-down-to=1024&width=1152&height=1264 933w,https://framerusercontent.com/images/YN3LJJO1nyDKqbOQbaLqQNT8Zcg.png?width=1152&height=1264 1152w",
+      "alt": "",
+      "width": 287,
+      "height": 316,
+      "displayedW": 271,
+      "displayedH": 318,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/DfNLs66f66jgUHS68KHXIluvRk8.png?width=336&height=96",
+      "srcset": "",
+      "alt": "",
+      "width": 336,
+      "height": 96,
+      "displayedW": 85,
+      "displayedH": 24,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/H1fTBsktZRdyhiUzoCdcz2tf8.png?width=1152&height=1264",
+      "srcset": "https://framerusercontent.com/images/H1fTBsktZRdyhiUzoCdcz2tf8.png?scale-down-to=1024&width=1152&height=1264 933w,https://framerusercontent.com/images/H1fTBsktZRdyhiUzoCdcz2tf8.png?width=1152&height=1264 1152w",
+      "alt": "",
+      "width": 287,
+      "height": 316,
+      "displayedW": 271,
+      "displayedH": 318,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/WacAg20AvDMNdTBFQkbDqg3Rjvg.png?width=340&height=96",
+      "srcset": "",
+      "alt": "",
+      "width": 340,
+      "height": 96,
+      "displayedW": 85,
+      "displayedH": 24,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/SwToKhbqycLoiMPd5umAueMOQ.png?width=1152&height=1264",
+      "srcset": "https://framerusercontent.com/images/SwToKhbqycLoiMPd5umAueMOQ.png?scale-down-to=1024&width=1152&height=1264 933w,https://framerusercontent.com/images/SwToKhbqycLoiMPd5umAueMOQ.png?width=1152&height=1264 1152w",
+      "alt": "",
+      "width": 287,
+      "height": 316,
+      "displayedW": 271,
+      "displayedH": 318,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/WacAg20AvDMNdTBFQkbDqg3Rjvg.png?width=340&height=96",
+      "srcset": "",
+      "alt": "",
+      "width": 340,
+      "height": 96,
+      "displayedW": 85,
+      "displayedH": 24,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/YN3LJJO1nyDKqbOQbaLqQNT8Zcg.png?width=1152&height=1264",
+      "srcset": "https://framerusercontent.com/images/YN3LJJO1nyDKqbOQbaLqQNT8Zcg.png?scale-down-to=1024&width=1152&height=1264 933w,https://framerusercontent.com/images/YN3LJJO1nyDKqbOQbaLqQNT8Zcg.png?width=1152&height=1264 1152w",
+      "alt": "",
+      "width": 287,
+      "height": 316,
+      "displayedW": 271,
+      "displayedH": 318,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/DfNLs66f66jgUHS68KHXIluvRk8.png?width=336&height=96",
+      "srcset": "",
+      "alt": "",
+      "width": 336,
+      "height": 96,
+      "displayedW": 85,
+      "displayedH": 24,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/H1fTBsktZRdyhiUzoCdcz2tf8.png?width=1152&height=1264",
+      "srcset": "https://framerusercontent.com/images/H1fTBsktZRdyhiUzoCdcz2tf8.png?scale-down-to=1024&width=1152&height=1264 933w,https://framerusercontent.com/images/H1fTBsktZRdyhiUzoCdcz2tf8.png?width=1152&height=1264 1152w",
+      "alt": "",
+      "width": 287,
+      "height": 316,
+      "displayedW": 271,
+      "displayedH": 318,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/WacAg20AvDMNdTBFQkbDqg3Rjvg.png?width=340&height=96",
+      "srcset": "",
+      "alt": "",
+      "width": 340,
+      "height": 96,
+      "displayedW": 85,
+      "displayedH": 24,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/SwToKhbqycLoiMPd5umAueMOQ.png?width=1152&height=1264",
+      "srcset": "https://framerusercontent.com/images/SwToKhbqycLoiMPd5umAueMOQ.png?scale-down-to=1024&width=1152&height=1264 933w,https://framerusercontent.com/images/SwToKhbqycLoiMPd5umAueMOQ.png?width=1152&height=1264 1152w",
+      "alt": "",
+      "width": 287,
+      "height": 316,
+      "displayedW": 271,
+      "displayedH": 318,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/WacAg20AvDMNdTBFQkbDqg3Rjvg.png?width=340&height=96",
+      "srcset": "",
+      "alt": "",
+      "width": 340,
+      "height": 96,
+      "displayedW": 85,
+      "displayedH": 24,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/YN3LJJO1nyDKqbOQbaLqQNT8Zcg.png?width=1152&height=1264",
+      "srcset": "https://framerusercontent.com/images/YN3LJJO1nyDKqbOQbaLqQNT8Zcg.png?scale-down-to=1024&width=1152&height=1264 933w,https://framerusercontent.com/images/YN3LJJO1nyDKqbOQbaLqQNT8Zcg.png?width=1152&height=1264 1152w",
+      "alt": "",
+      "width": 287,
+      "height": 316,
+      "displayedW": 271,
+      "displayedH": 318,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/DfNLs66f66jgUHS68KHXIluvRk8.png?width=336&height=96",
+      "srcset": "",
+      "alt": "",
+      "width": 336,
+      "height": 96,
+      "displayedW": 85,
+      "displayedH": 24,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/H1fTBsktZRdyhiUzoCdcz2tf8.png?width=1152&height=1264",
+      "srcset": "https://framerusercontent.com/images/H1fTBsktZRdyhiUzoCdcz2tf8.png?scale-down-to=1024&width=1152&height=1264 933w,https://framerusercontent.com/images/H1fTBsktZRdyhiUzoCdcz2tf8.png?width=1152&height=1264 1152w",
+      "alt": "",
+      "width": 287,
+      "height": 316,
+      "displayedW": 271,
+      "displayedH": 318,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/WacAg20AvDMNdTBFQkbDqg3Rjvg.png?width=340&height=96",
+      "srcset": "",
+      "alt": "",
+      "width": 340,
+      "height": 96,
+      "displayedW": 85,
+      "displayedH": 24,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/SwToKhbqycLoiMPd5umAueMOQ.png?width=1152&height=1264",
+      "srcset": "https://framerusercontent.com/images/SwToKhbqycLoiMPd5umAueMOQ.png?scale-down-to=1024&width=1152&height=1264 933w,https://framerusercontent.com/images/SwToKhbqycLoiMPd5umAueMOQ.png?width=1152&height=1264 1152w",
+      "alt": "",
+      "width": 287,
+      "height": 316,
+      "displayedW": 271,
+      "displayedH": 318,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/6tTbkXggWgQCAJ4DO2QEdXXmgM.svg?arrow=left",
+      "srcset": "",
+      "alt": "Back Arrow",
+      "width": 40,
+      "height": 40,
+      "displayedW": 40,
+      "displayedH": 40,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/11KSGbIZoRSg4pjdnUoif6MKHI.svg?arrow=right",
+      "srcset": "",
+      "alt": "Next Arrow",
+      "width": 40,
+      "height": 40,
+      "displayedW": 40,
+      "displayedH": 40,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/yoWU4pkfldEmzCwV9ANdmN20Oc.png?width=5568&height=2460",
+      "srcset": "https://framerusercontent.com/images/yoWU4pkfldEmzCwV9ANdmN20Oc.png?scale-down-to=512&width=5568&height=2460 512w,https://framerusercontent.com/images/yoWU4pkfldEmzCwV9ANdmN20Oc.png?scale-down-to=1024&width=5568&height=2460 1024w,https://framerusercontent.com/images/yoWU4pkfldEmzCwV9ANdmN20Oc.png?scale-down-to=2048&width=5568&height=2460 2048w,https://framerusercontent.com/images/yoWU4pkfldEmzCwV9ANdmN20Oc.png?scale-down-to=4096&width=5568&height=2460 4096w,https://framerusercontent.com/images/yoWU4pkfldEmzCwV9ANdmN20Oc.png?width=5568&height=2460 5568w",
+      "alt": "",
+      "width": 1280,
+      "height": 565,
+      "displayedW": 1280,
+      "displayedH": 591,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/3gfBGfHzQ5tkOHML4HLW1xirCM.png?width=1024&height=1024",
+      "srcset": "https://framerusercontent.com/images/3gfBGfHzQ5tkOHML4HLW1xirCM.png?scale-down-to=512&width=1024&height=1024 512w,https://framerusercontent.com/images/3gfBGfHzQ5tkOHML4HLW1xirCM.png?width=1024&height=1024 1024w",
+      "alt": "",
+      "width": 27,
+      "height": 27,
+      "displayedW": 28,
+      "displayedH": 28,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/a57KYIn40KqIN9GIuiwW4pW8.png?width=1024&height=1024",
+      "srcset": "https://framerusercontent.com/images/a57KYIn40KqIN9GIuiwW4pW8.png?scale-down-to=512&width=1024&height=1024 512w,https://framerusercontent.com/images/a57KYIn40KqIN9GIuiwW4pW8.png?width=1024&height=1024 1024w",
+      "alt": "",
+      "width": 27,
+      "height": 27,
+      "displayedW": 28,
+      "displayedH": 28,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/izZnKHYS4vBCFXbDMUltSBm0noM.png?width=1024&height=1024",
+      "srcset": "https://framerusercontent.com/images/izZnKHYS4vBCFXbDMUltSBm0noM.png?scale-down-to=512&width=1024&height=1024 512w,https://framerusercontent.com/images/izZnKHYS4vBCFXbDMUltSBm0noM.png?width=1024&height=1024 1024w",
+      "alt": "",
+      "width": 27,
+      "height": 27,
+      "displayedW": 28,
+      "displayedH": 28,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/6X9Srqnwtn7UPuWe5EEbo7VsH4.png?width=5760&height=3508",
+      "srcset": "https://framerusercontent.com/images/6X9Srqnwtn7UPuWe5EEbo7VsH4.png?scale-down-to=512&width=5760&height=3508 512w,https://framerusercontent.com/images/6X9Srqnwtn7UPuWe5EEbo7VsH4.png?scale-down-to=1024&width=5760&height=3508 1024w,https://framerusercontent.com/images/6X9Srqnwtn7UPuWe5EEbo7VsH4.png?scale-down-to=2048&width=5760&height=3508 2048w,https://framerusercontent.com/images/6X9Srqnwtn7UPuWe5EEbo7VsH4.png?scale-down-to=4096&width=5760&height=3508 4096w,https://framerusercontent.com/images/6X9Srqnwtn7UPuWe5EEbo7VsH4.png?width=5760&height=3508 5760w",
+      "alt": "",
+      "width": 1440,
+      "height": 876,
+      "displayedW": 1440,
+      "displayedH": 806,
+      "loading": "auto"
+    },
+    {
+      "src": "https://framerusercontent.com/images/0z2ItyLxlnDZIoQxwRT7WAjpoHo.png?width=2269&height=908",
+      "srcset": "https://framerusercontent.com/images/0z2ItyLxlnDZIoQxwRT7WAjpoHo.png?scale-down-to=512&width=2269&height=908 512w,https://framerusercontent.com/images/0z2ItyLxlnDZIoQxwRT7WAjpoHo.png?scale-down-to=1024&width=2269&height=908 1024w,https://framerusercontent.com/images/0z2ItyLxlnDZIoQxwRT7WAjpoHo.png?scale-down-to=2048&width=2269&height=908 2048w,https://framerusercontent.com/images/0z2ItyLxlnDZIoQxwRT7WAjpoHo.png?width=2269&height=908 2269w",
+      "alt": "",
+      "width": 122,
+      "height": 48,
+      "displayedW": 122,
+      "displayedH": 32,
+      "loading": "lazy"
+    },
+    {
+      "src": "https://framerusercontent.com/images/lXxoEPoyezV9drU2iQsyk1gtVg.png?width=80&height=80",
+      "srcset": "",
+      "alt": "",
+      "width": 80,
+      "height": 80,
+      "displayedW": 20,
+      "displayedH": 20,
+      "loading": "lazy"
+    },
+    {
+      "src": "https://framerusercontent.com/images/wCISc3qStSOLmOzgGzc6g1Qi46I.png?width=80&height=80",
+      "srcset": "",
+      "alt": "",
+      "width": 80,
+      "height": 80,
+      "displayedW": 20,
+      "displayedH": 20,
+      "loading": "lazy"
+    },
+    {
+      "src": "https://framerusercontent.com/images/itm2nP9zys2XFmUiOSlEOP2dxYQ.png?width=80&height=80",
+      "srcset": "",
+      "alt": "",
+      "width": 80,
+      "height": 80,
+      "displayedW": 20,
+      "displayedH": 20,
+      "loading": "lazy"
+    },
+    {
+      "src": "https://framerusercontent.com/images/zzASo47aHXMbWwlb2CCEAnxi8xE.png?width=80&height=80",
+      "srcset": "",
+      "alt": "",
+      "width": 80,
+      "height": 80,
+      "displayedW": 20,
+      "displayedH": 20,
+      "loading": "lazy"
+    },
+    {
+      "src": "https://framerusercontent.com/images/v6ImljIdHDbOjsLF8mv4viMHk.svg?width=568&height=227",
+      "srcset": "https://framerusercontent.com/images/v6ImljIdHDbOjsLF8mv4viMHk.svg?scale-down-to=512&width=568&height=227 512w,https://framerusercontent.com/images/v6ImljIdHDbOjsLF8mv4viMHk.svg?width=568&height=227 568w",
+      "alt": "",
+      "width": 1381,
+      "height": 552,
+      "displayedW": 1382,
+      "displayedH": 309,
+      "loading": "auto"
+    }
+  ],
+  "texts": [
+    {
+      "tag": "P",
+      "text": "About",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "About",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "About",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "MUZIM L1 Data Hub",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "MUZIM L1 Data Hub",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "MUZIM L1 Data Hub",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Download",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Download",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Download",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Resources",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Resources",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Resources",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Support",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Support",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Support",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Contact Us",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "color": "rgb(250, 249, 247)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Contact Us",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "color": "rgb(250, 249, 247)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Contact Us",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "color": "rgb(250, 249, 247)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Local-First Free AI Vibe Searching",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "20px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "H1",
+      "text": "Manage ALL Your Files",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "65px",
+      "fontWeight": "500",
+      "color": "rgb(255, 255, 255)",
+      "lineHeight": "65px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "H1",
+      "text": "from a",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "65px",
+      "fontWeight": "500",
+      "color": "rgb(255, 255, 255)",
+      "lineHeight": "65px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "H1",
+      "text": "Search Bar",
+      "fontFamily": "\"Playfair Display\", \"Playfair Display Placeholder\", serif",
+      "fontSize": "65px",
+      "fontWeight": "500",
+      "color": "rgb(255, 255, 255)",
+      "lineHeight": "65px",
+      "fontStyle": "italic"
+    },
+    {
+      "tag": "P",
+      "text": "Intelligent Personal Data Hub with Up to 18TB SSD & High Speed",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "View Intro",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "color": "rgb(255, 255, 255)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "View Intro",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "color": "rgb(25, 25, 24)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "View Intro",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "color": "rgb(255, 255, 255)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "MUZIM L1",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "color": "rgb(255, 255, 255)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "MUZIM L1",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "color": "rgb(255, 255, 255)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "MUZIM L1",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "color": "rgb(255, 255, 255)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Software Download",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "color": "rgb(255, 255, 255)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Software Download",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "color": "rgb(255, 255, 255)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Software Download",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "color": "rgb(255, 255, 255)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "H5",
+      "text": "[ As Seen On]",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "24px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "31.2px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "[ Local-First AI & Agentic File System ]",
+      "fontFamily": "\"Tiro Telugu\", \"Tiro Telugu Placeholder\", serif",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "19.8px",
+      "fontStyle": "italic"
+    },
+    {
+      "tag": "H2",
+      "text": "From Local-First AI File System",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "48px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "52.8px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "H2",
+      "text": "to Building Your",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "48px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "52.8px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "H2",
+      "text": "Eternal AI Substitute",
+      "fontFamily": "\"Playfair Display\", \"Playfair Display Placeholder\", serif",
+      "fontSize": "46px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "50.6px",
+      "fontStyle": "italic"
+    },
+    {
+      "tag": "P",
+      "text": "Interactive Smart Display",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "32px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "35.2px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "An interactive circular display on your desktop, data & memories at a glance",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "23.4px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "+5825",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "8px",
+      "fontWeight": "600",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "12px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "5GB/S 16-in-1 Hub with Up to 18TB SSD Storage",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "32px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "35.2px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "MUZIM L1S have 2 SSD enclosures with up to 16TB SSD storage while MUZIM L1 has extra 2TB SSD embedde",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "23.4px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Marvin McKinney",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "@mcKinney",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "20px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Eleanor Pena",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "@pena",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "20px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Leslie Alexander",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "@alexander",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "20px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Marvin McKinney",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "@mcKinney",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "20px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Eleanor Pena",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "@pena",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "20px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Leslie Alexander",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "@alexander",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "20px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Courtney Henry",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "@henry",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "20px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Jenny Wilson",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "@wilson",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "20px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Courtney Henry",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "@henry",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "20px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Jenny Wilson",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "@wilson",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "20px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Local-First Vibe Search & Wireless Accessibility",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "32px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "35.2px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Vibe search all kinds of files including images, videos, audios and documents, anywhere, anytime you",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "23.4px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Today!",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "20px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Build AI Agents from Your Files",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "32px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "35.2px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "One-click to build your AI agent from a specific collection of files you decide",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "23.4px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "[ How MUZIM Works ]",
+      "fontFamily": "\"Tiro Telugu\", \"Tiro Telugu Placeholder\", serif",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "19.8px",
+      "fontStyle": "italic"
+    },
+    {
+      "tag": "H2",
+      "text": "Our Edge-Cloud Integration",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "48px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "52.8px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "H2",
+      "text": "with",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "48px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "52.8px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "H2",
+      "text": "Hardware and Software Decoupled",
+      "fontFamily": "\"Playfair Display\", \"Playfair Display Placeholder\", serif",
+      "fontSize": "46px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "50.6px",
+      "fontStyle": "italic"
+    },
+    {
+      "tag": "P",
+      "text": "1",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "H5",
+      "text": "MUZIM Data Hub is Compatible with ALL Computers",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "24px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "31.2px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Simply plug in the device and use it as a high-speed external SSD storage and desktop power hub.",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "2",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "H5",
+      "text": "MUZIM Software Runs Independently without MUZIM Data Hub",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "24px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "31.2px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Our software runs on your PC or laptop or Mac. Now aavailable for MacOS (M series chips), Windows ve",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "3",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "H5",
+      "text": "Only Structured Data (Not Original Files) Goes to LLM on Cloud",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "24px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "31.2px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "All the searching and managing function can run without network while AI chatbot and Agentic functio",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "[ Hardware ]",
+      "fontFamily": "\"Tiro Telugu\", \"Tiro Telugu Placeholder\", serif",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "19.8px",
+      "fontStyle": "italic"
+    },
+    {
+      "tag": "H2",
+      "text": "SSD Storage Up to 18TB + 16-in-1 High-Speed Hub",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "48px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "52.8px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "H2",
+      "text": "+Interactive Smart Display=",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "48px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "52.8px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "H2",
+      "text": "MUZIM L1",
+      "fontFamily": "\"Playfair Display\", \"Playfair Display Placeholder\", serif",
+      "fontSize": "46px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "50.6px",
+      "fontStyle": "italic"
+    },
+    {
+      "tag": "P",
+      "text": "Order Now (Starts from US$550)",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "color": "rgb(255, 255, 255)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Order Now (Starts from US$550)",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "color": "rgb(255, 255, 255)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Order Now (Starts from US$550)",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "color": "rgb(255, 255, 255)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "[ Software Pricing ]",
+      "fontFamily": "\"Tiro Telugu\", \"Tiro Telugu Placeholder\", serif",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "19.8px",
+      "fontStyle": "italic"
+    },
+    {
+      "tag": "H2",
+      "text": "Only Charged by",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "48px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "52.8px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "H2",
+      "text": "How Much Data Managed by MUZIM",
+      "fontFamily": "\"Playfair Display\", \"Playfair Display Placeholder\", serif",
+      "fontSize": "46px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "50.6px",
+      "fontStyle": "italic"
+    },
+    {
+      "tag": "P",
+      "text": "Monthly",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Yearly (Save 15%)",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Starter (Free)",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "H3",
+      "text": "$0",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "40px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "44px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "/month",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "500GB MUZIM Capacity",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "23.4px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "What's included:",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Vibe search all your files",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "23.4px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "100% local face recognition",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "23.4px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "100% local video & audio transcription",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "23.4px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Cloud drives import and backup",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "23.4px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "3 referral codes, up to 1.5TB MUZIM capacity",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "23.4px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Remote Data Accessibility",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "23.4px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Get Started Free",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Get Started Free",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Get Started Free",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Advance",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "H3",
+      "text": "$4.9",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "40px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "44px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "/month",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "2TB MUZIM Capacity",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "23.4px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "What's included:",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Everything included in Starter",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "23.4px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "AI & Agent Chatbox",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "23.4px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Basic Token Credits",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "23.4px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "5% Discount for MUZIM hardware products",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "23.4px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Encrypted data backup on cloud",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "23.4px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Most updated local AI models",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "23.4px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Choose Advance Plan",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Choose Advance Plan",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Choose Advance Plan",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Premium",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Most Popular",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "lineHeight": "20px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "H3",
+      "text": "$19.9",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "40px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "44px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "/month",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Unlimited MUZIM Capacity",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "23.4px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "What's included:",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Everything included in Advance",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "23.4px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Premium and powerful AI & Agent Chatbox",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "23.4px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Premuim Token Credits",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "23.4px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "10% Discount for MUZIM hardware products",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "23.4px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Build your digital substitute from your data",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "23.4px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Extra 1-year warranty for MUZIM hardware products",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "23.4px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Upgrade to Premium",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "color": "rgb(255, 255, 255)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Upgrade to Premium",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "color": "rgb(255, 255, 255)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Upgrade to Premium",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "color": "rgb(255, 255, 255)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "[ Testimonial ]",
+      "fontFamily": "\"Tiro Telugu\", \"Tiro Telugu Placeholder\", serif",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "19.8px",
+      "fontStyle": "italic"
+    },
+    {
+      "tag": "H2",
+      "text": "What Our",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "48px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "52.8px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "H2",
+      "text": "Users Say",
+      "fontFamily": "\"Playfair Display\", \"Playfair Display Placeholder\", serif",
+      "fontSize": "46px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "50.6px",
+      "fontStyle": "italic"
+    },
+    {
+      "tag": "P",
+      "text": "This platform helped me understand my finances clearly. Everything is simple and well organized. I f",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "23.4px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Alex Morgan",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "20px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "30px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Small Business Owner",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Managing multiple accounts is now stress free and incredibly efficient. The reports are extremely he",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "23.4px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Sarah John",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "20px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "30px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Freelancer",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "The experience is incredibly smooth and well designed. I especially like how transparent everything ",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "23.4px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "David Mike",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "20px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "30px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Independent Consultant",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "This platform helped me understand my finances clearly. Everything is simple and well organized. I f",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "23.4px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Alex Morgan",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "20px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "30px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Small Business Owner",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Managing multiple accounts is now stress free and incredibly efficient. The reports are extremely he",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "23.4px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Sarah John",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "20px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "30px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Freelancer",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "The experience is incredibly smooth and well designed. I especially like how transparent everything ",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "23.4px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "David Mike",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "20px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "30px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Independent Consultant",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "This platform helped me understand my finances clearly. Everything is simple and well organized. I f",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "23.4px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Alex Morgan",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "20px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "30px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Small Business Owner",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Managing multiple accounts is now stress free and incredibly efficient. The reports are extremely he",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "23.4px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Sarah John",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "20px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "30px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Freelancer",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "The experience is incredibly smooth and well designed. I especially like how transparent everything ",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "23.4px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "David Mike",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "20px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "30px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Independent Consultant",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "This platform helped me understand my finances clearly. Everything is simple and well organized. I f",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "23.4px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Alex Morgan",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "20px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "30px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Small Business Owner",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Managing multiple accounts is now stress free and incredibly efficient. The reports are extremely he",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "23.4px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Sarah John",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "20px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "30px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Freelancer",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "The experience is incredibly smooth and well designed. I especially like how transparent everything ",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "23.4px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "David Mike",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "20px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "30px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Independent Consultant",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "H2",
+      "text": "Manage ALL Your Files From",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "48px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "52.8px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "H2",
+      "text": "a Search Bar",
+      "fontFamily": "\"Playfair Display\", \"Playfair Display Placeholder\", serif",
+      "fontSize": "46px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "50.6px",
+      "fontStyle": "italic"
+    },
+    {
+      "tag": "P",
+      "text": "Reach users managing money smarter and safer.",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "100k+ Users",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "20px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "4.6 Rating",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(59, 64, 76)",
+      "lineHeight": "20px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Up to 18TB SSD Storage is more than adequate for all your precious memories",
+      "fontFamily": "\"Inter Variable\", \"Inter Variable Placeholder\", sans-serif",
+      "fontSize": "32px",
+      "fontWeight": "400",
+      "color": "rgb(0, 0, 0)",
+      "lineHeight": "32px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "If you take one-hour HD video every day, 18TB can storage all these HD videos taken in 18~20 years.",
+      "fontFamily": "\"Inter Variable\", \"Inter Variable Placeholder\", sans-serif",
+      "fontSize": "22px",
+      "fontWeight": "400",
+      "color": "rgb(153, 153, 153)",
+      "lineHeight": "26.4px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "From managing data to building your AI substitute",
+      "fontFamily": "\"Inter Variable\", \"Inter Variable Placeholder\", sans-serif",
+      "fontSize": "32px",
+      "fontWeight": "400",
+      "color": "rgb(0, 0, 0)",
+      "lineHeight": "32px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "The ultimate goal of MUZIM is providing a local-first method for you to build a forever-lasting AI s",
+      "fontFamily": "\"Inter Variable\", \"Inter Variable Placeholder\", sans-serif",
+      "fontSize": "22px",
+      "fontWeight": "400",
+      "color": "rgb(153, 153, 153)",
+      "lineHeight": "26.4px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "A modern finance platform built to simplify money management and support smarter financial decisions",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Main Pages",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "20px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "30px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Home",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "About",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "MUZIM L1",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Download",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Blog",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Other Pages",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "20px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "30px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Pricing",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Contact",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Integration Single",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Blog Single",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Legal pages",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "20px",
+      "fontWeight": "500",
+      "color": "rgb(6, 6, 6)",
+      "lineHeight": "30px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Privacy policy",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Terms & Conditions",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "Powered by Framer",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    },
+    {
+      "tag": "P",
+      "text": "© 2026 Fundely. All rights reserved.",
+      "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "lineHeight": "24px",
+      "fontStyle": "normal"
+    }
+  ],
+  "computedStyles": {
+    "body": {
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "color": "rgb(0, 0, 0)",
+      "fontFamily": "sans-serif",
+      "fontSize": "12px"
+    }
+  }
+}
